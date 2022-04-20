@@ -2,9 +2,8 @@
 layout: post
 categories:
   - Android
-title:  Coroutine Basics
-date:   2022-04-24 14:01:35 +0300
-# image:  'backpressure.jpg'
+title:  Coroutine
+date: 2022-04-20 14:01:35 +05:30
 tags:   kotlin
 comments: true
 ---
@@ -31,9 +30,6 @@ Coroutines do not replace threads, It's more like a framework to manage it.
 
 
 The exact definition of coroutines: A framework to manage concurrency in a more performant and simple way with its lightweight thread which is written on top of the actual threading framework to get the most out of it by taking the advantage of cooperative nature of function.
-
-
-Need of kotlin coroutines:
 
 Some Keywords from coroutines:
 
