@@ -8,13 +8,13 @@ tags:   kotlin
 comments: true
 ---
 
-Unlike many other languages with similar capabilities, async and await are not keywords in kotlin and are not even part of its standard library. 
-
-**Kotlinx.coroutines is a rich library for coroutines developed by jetbrains.**
-
 Coroutines, a very efficient and complete framework to manage concurrency in a more performant and simple way.
 
 Co means cooperation and Routines means function. It means that when functions cooperate with each other, we call it as coroutines.
+
+async and await are not keywords but functions in kotlin 
+
+**Kotlinx.coroutines is a rich library for coroutines**
 
 Coroutines and the thread both are multitasking. But the difference is that thread are managed by the OS and coroutines by the users as it can execute a few lines of function by taking advantage of the cooperation.
 
@@ -27,7 +27,6 @@ Coroutines are lightweight threads. (a lightweight thread means it dosen't map o
 Kotlin implements stackless coroutines - it means that the coroutines don't have own stack, so they don't map on the native thread.
 
 Coroutines do not replace threads, It's more like a framework to manage it.
-
 
 The exact definition of coroutines: A framework to manage concurrency in a more performant and simple way with its lightweight thread which is written on top of the actual threading framework to get the most out of it by taking the advantage of cooperative nature of function.
 
