@@ -30,7 +30,7 @@ until it forms into a small plant, at which point, you will need to re-pot. Beca
 **Active growth period :** The Buddha belly plant’s active growing seasons are spring and summer. In the fall, it begins to shed its leaves to prepare for winter, during which it lies dormant until the spring comes and the plant wakes up again.
 
 *Add a good amount of fertilizer (100 - 150 gm) once a month. Preferably use organic fertilizer like any type of compost (normal compost or vermicompost)*
- - since it is a flowering plant small amount of phosphate is also good fertilizer to use DAP granules. [Granules link](https://theaffordableorganicstore.com/product/dap-phosphate-granules/). Put minimal amount 4-5 granules per 15-20 days
+ - since it is a flowering plant small amount of phosphate is also good fertilizer to use DAP granules. [theaffordablestore](https://theaffordableorganicstore.idevaffiliate.com/644.html), [Granules link](https://theaffordableorganicstore.com/product/dap-phosphate-granules/). Put minimal amount 4-5 granules per 15-20 days
 
 **Sunlight**: Give it the proper light and temperature. A Buddha belly plant, if grown indoors, needs plenty of sunlight, although too much direct sunlight can be harmful to the plant’s leaves – it will burn them. Setting the Buddha belly plant near a south-facing window is good. This means that you need to rotate the plant often throughout the year and keep a close eye on the leaves to make sure they aren’t getting too hot.
 
