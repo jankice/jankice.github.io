@@ -2,7 +2,7 @@
 layout: post
 categories:
   - Gardening
-title:  Buddha Belly
+title:  Jatropha podagrica
 last_modified_at: 2022-06-14T14:23:48-05:30
 tags:   
   - Tropical-Plant
@@ -10,59 +10,38 @@ tags:
 comments: true
 ---
 
-Monstera is a tropical plant, which loves a humid environment. Monstera has two types of roots underground roots and aerial roots, underground roots grow below ground, and aerial roots anchor plants to trees, walls, and other above-ground surfaces, allowing the plant to climb.
+Jatropha podagrica is a tropical plant, they are unique plants that recieved their name **buddha belly** because of their round, swolloen like bellies, they are considered shrubs, yet they’re toxic, so they must be handled with care. Buddha belly plants require the proper care to thrive in the environment they’re in.
 
 **Type :**
 
-1) Monstera Deliciosa
+1) Jatropha podagrica
 
-2) Monstera Adansonii
-
-3) Monstera Obliqua
-
-	
-**Common name :** Swiss Cheese Plant
-
-**Photo : Monstera Adansonii**
-![Photo 1: Monstera Adansonii](/assets/adansonii_1.jpeg)
+**Common name :** Buddha belly, bottle plant
 
 **How to Plant :**
-Monstera is very easy to propagate from stem cuttings. Cut from the existing plant below the leaf node about min 3 to 4 inches long, then remove all lower leaves.
+Buddha belly plant can begin growing form seeds or take splings from plant nursary.
+Put seed in to the soil container or seedling try with the right amount of soil mixing ( In a mixture of 1/3 - red soil, 1/3 - coco peat, 1/3 - compost, and some amount of perlite (50gm to be precise) or sand for better drainage)
+until it forms in to a small plant, at which point, you will need to re-pot. becasue plant need fresh soil every year to grow properly.
 
- - In water ( do not add any fertilizer to water )
- - In soil ( In a mixture of 1/3 - red soil, 1/3 - coco peat, 1/3 - compost, and some amount of perlite (50gm to be precise) or sand for better drainage)
+**Active growth period :** The Buddha belly plant’s active growing seasons are the spring and summer. In the fall, it begins to shed its leaves to prepare for winter, during which it lies dormant until the spring comes and the plant wakes up again
 
-**Active growth period :** It grows well from Spring to fall (March to December).
+**Sunlight :** Give it the proper light and temperature. A Buddha belly plant, if grown indoors, needs plenty of sunlight, although too much direct sunlight can actually be harmful to the plant’s leaves – it will burn them. Setting the Buddha belly plant near a south-facing window is good. This means that you need to rotate the plant often throughout the year and keep a close eye on the leaves to make sure they aren’t getting too hot.
 
-*If monstera is growing in water, change the water every once a week, do not add any fertilizer to the water, and only use tap water because tap water has required nutrition and minerals.*
+**Water :** this plant need good amount of water as well, Give water when the top half-inch of soil dries. Or add water twise a week, don't overwater the plant.
 
-*If monstera is growing in soil, add a good amount of fertilizer (100 - 150 gm) once a month. Preferably use organic fertilizer like any type of compost (normal compost or vermicompost). Don't use an in-organic one, it will damage roots.*
-
-**Sunlight :** Need bright to medium filtered light. Or 1-2 hr in sunlight but not harsh, it should be afternoon sunlight. If you see leaves are growing in yellowish and very light green means sunlight is too harsh for the plant.
-
-**Water :** Give water when the top half-inch of soil dries. Or add water once a week, don't overwater the plant, it will harm the underground roots. If plant leaves change their color to light brown to brown that means the plant is over watered, in that case repotting the plant is necessary to save it.
-
-**Humidity :** Monstera plant loves the humid environment and it will grow well in a humid environment, if you live in a dry environment area, where the humidity level is below 40%, put a humidifier to boost the humidity level indoors.
+**Humidity :** Hence buddha belly is tropical plant, loves the humid environment too, but do not put in to dark or more shadey area which is harmeful for roots and possible fungle attack too.
 
 **Soil :** The plant loves well-drained soil. Make soil mix with better drainage components.
 
-**Temprature :** 18C to 30C is the best temperature condition. If the temperature rises put the plant inside a room in a bright area.
+**Temprature :** 23C to 40C is the best temperature condition. If the temperature rises put the plant inside a room in a bright, sunny area.
 
 **Problems cause and solition :**
 
-SYMPTOM: Leaves turning brown and crispy at the edges
+SYMPTOM: Leaves turning brown and crispy at the edges, and small leaves size
 
-CAUSE: Thirsty plant, underwatered or high salt build-up
+CAUSE: Thirsty plant, underwatered
 
-SOLUTION: Give water regularly and give a humid environment for thirsty plants. If the top of the soil shows a white layer or white particles you need to check your water salt level, always use water that has less salt content.
-
-**--------------------------------------------**
-
-SYMPTOM: Wilting plant, dry potting mix
-
-CAUSE: Underwatered or pot-bound (roots are taken away from a pot)
-
-SOLUTION: Give a good amount of water for some days till plant leaves become normal. For a pot-bound repotting plant to a bigger pot.
+SOLUTION: Give water regularly and give a humid environment for thirsty plants.
 
 **--------------------------------------------**
 
@@ -71,13 +50,5 @@ SYMPTOM: Yellowing leaves to light brown to brown or black stems
 CAUSE: Overwatered
 
 SOLUTION: Repotting and changing soil is the best option, if not possible put the plant outdoor and don't water till the soil dries, also add some perlite and dry coco peat to the soil.
-
-**--------------------------------------------**
-
-SYMPTOM: Grows yellow or very light green leaves
-
-CAUSE: Bright sunlight
-
-SOLUTION: Put the plant indoors and cut damaged leaves.
 
 **--------------------------------------------**
