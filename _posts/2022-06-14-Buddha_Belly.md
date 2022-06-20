@@ -29,7 +29,7 @@ until it forms in to a small plant, at which point, you will need to re-pot. bec
 Though the Buddha belly plant attracts butterflies and hummingbirds, they won’t harm the plant.
 
 *Add a good amount of fertilizer (100 - 150 gm) once a month. Preferably use organic fertilizer like any type of compost (normal compost or vermicompost)*
- - heance it is flowering plant small ammount of phosphate is also good fertilizer use DAP granules. https://theaffordableorganicstore.com/product/dap-phosphate-granules/. Put very small amount 4-5 granules per 15-20 days
+ - heance it is flowering plant small ammount of phosphate is also good fertilizer use DAP granules. [a link](https://theaffordableorganicstore.com/product/dap-phosphate-granules/). Put very small amount 4-5 granules per 15-20 days
 
 **Active growth period :** The Buddha belly plant’s active growing seasons are the spring and summer. In the fall, it begins to shed its leaves to prepare for winter, during which it lies dormant until the spring comes and the plant wakes up again
 
