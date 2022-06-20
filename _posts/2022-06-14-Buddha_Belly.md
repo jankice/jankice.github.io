@@ -16,6 +16,8 @@ Jatropha podagrica is a tropical plant, they are unique plants that recieved the
 
 1) Jatropha podagrica
 
+![Photo 1: Jatropha podagrica](/assets/buddhabelly_1.jpeg)
+
 **Common name :** Buddha belly, bottle plant
 
 **How to Plant :**
