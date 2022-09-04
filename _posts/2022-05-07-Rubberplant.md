@@ -3,7 +3,7 @@ layout: post
 categories:
   - Gardening
 title:  Rubber plant
-last_modified_at: 2022-08-14T14:23:48-05:30
+last_modified_at: 2022-07-05T14:23:48-05:30
 tags:   
   - Tropical-Plant
   - Gardens
@@ -16,48 +16,69 @@ Rubber plant is an evergreen tropical plant that can grow up to 50 feet. It can 
 
 **Type :**
 
-The plant is a member of the banyan group within the fig genus, where the name ficus comes from. Its plant family is Moraceae, a group of tropical flowering plants with over 1100 species.
+The plant is a member of the banyan group within the fig genus, where the name ficus comes from. Its plant family is Moraceae, a group of tropical flowering plants with over 1100 species, but the most common species are:
 
-but the most common species are
+* Ficus elastica ‘Robusta’:
 
- 1. Ficus elastica ‘Robusta’ : it is the most common variety, with large green leaves. that can grow up to 20cm long.
+![Photo 1: Robusta](/assets/rubber_robusta.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
 
- ![Photo 1: Robusta](/assets/rubber_robusta.jpg)
+it is the most common variety, with large green leaves. that can grow up to 20cm long.
 
- 2. Ficus elastica ‘Tricolor’ : has the thick, leathery leaves, but comes in a mix of three colors, The new foliage emerges with a vibrant pinky red tone which adds impact to the variations of cream and green. 
+2. Ficus elastica ‘Tricolor’:
 
- ![Photo 2: ‘Tricolor’](/assets/rubber_tricolor.jpg)
+![Photo 2: Tricolor](/assets/rubber_tricolor.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+   
+has the thick, leathery leaves, but comes in a mix of three colors, The new foliage emerges with a vibrant pinky red tone which adds impact to the variations of cream and green. 
 
-  3. Ficus elastica ‘Tineke’ : It is new hybrid varitey, has pink stems and leaves that mix dark and light green with cream.
+3. Ficus elastica ‘Tineke’ : 
 
-![Photo 3: ‘Tineke’](/assets/rubber_tineke.jpg)
+![Photo 3: ‘Tineke’](/assets/rubber_tineke.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+  
+It is new hybrid varitey, has pink stems and leaves that mix dark and light green with cream.
 
- 4. Ficus elastica ‘Decora’: has large, green, shiny leaves that grow up to 12 inches long.
+4. Ficus elastica ‘Decora’:
 
- ![Photo 4: ‘Tineke’](/assets/rubber_decora.jpg)
+![Photo 4: ‘Decora’](/assets/rubber_decora.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
 
- 5. Ficus elastica ‘Doescheri’: has blotched leaves with pink accents on the stalks’ undersides. 
+has large, green, shiny leaves that grow up to 12 inches long.
 
-  ![Photo 5: ‘Doescheri’](/assets/rubber_decora.jpg)
+5. Ficus elastica ‘Doescheri’:
 
-6. Ficus elastica ‘Burgundy’ has dark crimson leaves that appear almost black in certain lighting. 
-  also called Black Prince. this is most common rubbur plant spices.
+![Photo 5: ‘Doescheri’](/assets/rubber_doescheri.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+ 
+has blotched leaves with pink accents on the stalks’ undersides. 
 
-![Photo 6: ‘Burgundy’](/assets/rubber_burgandy.jpg)
 
-7. 'Belize' or 'Red Ruby': is a greatly eye-catching house plant
+6. Ficus elastica ‘Burgundy’:
 
-![Photo 7: 'Red Ruby'](/assets/rubber_red_ruby.jpg)
+![Photo 6: ‘Burgundy’](/assets/rubber_burgandy.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
 
-8. Ficus elastica ‘Melany’ : Leaves are glossy, and bronze. 'Melany' will eventually develop as a dense, elegant shrub and will do well as a house plant in bright rooms.
+has dark crimson leaves that appear almost black in certain lighting. also called Black Prince. this is most common rubbur plant spices.
 
-![Photo 8: ‘Melany’](/assets/rubber_melany.jpg)
+7. 'Belize' or 'Red Ruby': 
 
-9. Ficus elastica yellow gem : Yellow Gem is a beautifully bright variety with glossy oval leaves that are variegated with vivid green and vibrant yellow
-![Photo 9: yellow gem](/assets/rubbur_yellow.jpg)
+![Photo 7: 'Red Ruby'](/assets/rubber_red_ruby.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
 
-10. Ficus elastica Dwarf : It looks like ‘Robusta’ silky green leaves, but small in size
- ![Photo 10: ‘Dwarf’](/assets/rubber_dwarf.jpg)
+is a greatly eye-catching house plant
+
+8. Ficus elastica ‘Melany’ :
+
+![Photo 8: ‘Melany’](/assets/rubber_melany.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+
+Leaves are glossy, and bronze. 'Melany' will eventually develop as a dense, elegant shrub and will do well as a house plant in bright rooms.
+
+9. Ficus elastica yellow gem :
+
+![Photo 9: yellow gem](/assets/rubbur_yellow.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+
+Yellow Gem is a beautifully bright variety with glossy oval leaves that are variegated with vivid green and vibrant yellow
+
+10. Ficus elastica Dwarf :
+
+![Photo 10: ‘Dwarf’](/assets/rubber_dwarf.jpg){: style=" width: 300px; height: 300px; padding: 20px"}
+
+It looks like ‘Robusta’ silky green leaves, but small in size
+
 
 **Common name :**  Rubber Plant, Rubber tree
 
