@@ -180,6 +180,7 @@ CAUSE: Overwatered
 SOLUTION: Repotting and changing soil is the best option, if not possible put the plant outdoor and don't water till the soil dries, also add some perlite and dry coco peat to the soil.
 
 **--------------------------------------------**
+
 SYMPTOM: Yellowing bottom leaves
 
 CAUSE: Leaves are too old
