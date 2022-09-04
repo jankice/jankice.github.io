@@ -155,7 +155,7 @@ after plant to soil with potting mix with equal amount of coco peat, pine bark (
 
 **Temprature :** It is best for a temperature of 65°F to 85°F (18°C-30°C), and not let it go below 60°F (15°C). this plant is native to warm jungle climates!
 
-**Problems cause and solition :**
+**Problems, cause and solution :**
 
 SYMPTOM: Leaves turning brown and crispy at the edges
 
