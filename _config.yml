@@ -50,6 +50,10 @@ markdown: kramdown
 feed:
   path: atom.xml
 
+kramdown:
+  input: GFM
+  head_wrap: true
+
 # Pagination - https://jekyllrb.com/docs/pagination/
 # paginate: 10
 # paginate_path: /page:num/
