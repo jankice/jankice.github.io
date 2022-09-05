@@ -20,12 +20,12 @@ If you put a rubber plant in the corner of a room, the corner will become more s
 #### Ficus elastica 'Robusta':
 
 <!-- ![Photo 1: Robusta](/assets/rubber_robusta.jpg){: style=" width: 300px; height: 300px; padding: 20px"} -->
-<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-right">
+<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-left">
   <img src="{{ '/assets/rubber_robusta.jpg' | absolute_url }}" alt="">
   <!-- <figcaption>this is descriptiion</figcaption> -->
 </figure> 
 
-This is the most common variety, with large dark green shiny leaves. that can grow up to 20cm long. it looks very attractive if putting near light colored wall. <br /><br /><br /><br /><br /><br /><br />
+This is the most common variety, with large dark green shiny leaves. that can grow up to 20cm long. it looks very attractive if putting near light colored wall. <br /><br /><br /><br /><br /><br />
 
 #### Ficus elastica 'Tricolor':
 
@@ -39,7 +39,7 @@ It has thick, leathery leaves, but comes in a mix of three colors, The new folia
 
 #### Ficus elastica 'Tineke' : 
 
-<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-right">
+<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-left">
   <img src="{{ '/assets/rubber_tineke.jpg' | absolute_url }}" alt="">
   <!-- <figcaption>this is descriptiion</figcaption> -->
 </figure> 
@@ -61,12 +61,12 @@ It has large, green, shiny leaves that grow up to 12 inches long.<br /><br /><br
 #### Ficus elastica ‘Doescheri’:
 
 <!-- ![Photo 5: ‘Doescheri’](/assets/rubber_doescheri.jpg){: style=" width: 300px; height: 300px; padding: 20px"} -->
-<figure style="width: 200px; height: 150px; padding: 0px; margin-top:0px"  class="align-right">
+<figure style="width: 200px; height: 150px; padding: 0px; margin-top:0px"  class="align-left">
   <img src="{{ '/assets/rubber_doescheri.jpg' | absolute_url }}" alt="">
   <!-- <figcaption>this is descriptiion</figcaption> -->
 </figure> 
  
-It has blotched leaves with pink accents on the stalks’ undersides. It has solid green foliage. When leaves grow, it has green color in the center with an irregular cream border. <br /><br /><br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><br />
+It has blotched leaves with pink accents on the stalks’ undersides. It has solid green foliage. When leaves grow, it has green color in the center with an irregular cream border. <br /><br /><br /><br /><br /><br /><br /> <br /><br /><br />
 
 
 #### Ficus elastica ‘Burgundy’:
@@ -82,12 +82,12 @@ It has dark crimson leaves that appear almost black in certain lighting, also ca
 #### 'Belize' or 'Red Ruby': 
 
 <!-- ![Photo 7: 'Red Ruby'](/assets/rubber_red_ruby.jpg){: style=" width: 300px; height: 300px; padding: 20px"} -->
-<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-right">
+<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-left">
   <img src="{{ '/assets/rubber_red_ruby.jpg' | absolute_url }}" alt="">
   <!-- <figcaption>this is descriptiion</figcaption> -->
 </figure> 
 
-It is a greatly eye-catching house plant. Rotate the plant occasionally to encourage even growth.<br /><br /><br /><br /><br /><br /><br /> <br /><br /><br />
+It is a greatly eye-catching house plant. Rotate the plant occasionally to encourage even growth.<br /><br /><br /><br /><br /><br /><br /> <br /><br />
 
 #### Ficus elastica ‘Melany’ :
 
@@ -102,7 +102,7 @@ Leaves are glossy, and bronze. 'Melany' will eventually develop as a dense, eleg
 ####  Ficus elastica yellow gem :
 
 <!-- ![Photo 9: yellow gem](/assets/rubbur_yellow.jpg){: style=" width: 300px; height: 300px; padding: 20px"} -->
-<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-right">
+<figure style="width: 200px; height: 200px; padding: 0px; margin-top:0px"  class="align-left">
   <img src="{{ '/assets/rubbur_yellow.jpg' | absolute_url }}" alt="">
   <!-- <figcaption>this is descriptiion</figcaption> -->
 </figure> 
@@ -119,6 +119,7 @@ Yellow Gem is a beautifully bright variety with glossy oval leaves that are vari
 
 It looks like ‘Robusta’ silky green leaves, but small in size <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+There are more than 1000+ Varieties of rubber plants available. but that is rarely seen in garden nursery.
 
 **Common name :**  Rubber Plant, Rubber tree
 
